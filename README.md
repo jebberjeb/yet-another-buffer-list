@@ -4,7 +4,7 @@ After trying a few variants of [MiniBufEpl] (http://www.vim.org/scripts/script.p
 and [buftabs] (http://www.vim.org/scripts/script.php?script_id=1664) (both nice
 plugins), wanted something
 
-* very simple -- just opens tabs in a vsplit
+* very simple -- just opens list of bufers in a vsplit
 * pure vimscript
 
 # Bindings
