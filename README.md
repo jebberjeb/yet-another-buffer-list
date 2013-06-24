@@ -9,8 +9,8 @@ plugins), wanted something
 
 # Bindings
 
-* <leader>b - show buffer list
-* <enter> - select a buffer from the list
+* &lt;leader&gt;b - show buffer list
+* &lt;enter&gt; - select a buffer from the list
 * q - close the buffer list
 
 # Installation
