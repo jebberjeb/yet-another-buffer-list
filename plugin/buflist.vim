@@ -49,6 +49,7 @@ function! <SID>ShowBufferList()
         execute 'normal! o' . line
     endfor
     set noma
+    execute ':2'
     nnoremap <buffer> <cr> :call <SID>SelectBuffer()<cr>
     nnoremap <buffer> q :bd!<cr>
     nnoremap <buffer> d :call <SID>DeleteBufferAndRefreshBufferList()<cr>
